@@ -1,0 +1,56 @@
+/* Fonts */
+
+@font-face {
+  font-family: "DancingScript-Bold";
+  src: url("assets/fonts/DancingScript-Bold.ttf");
+}
+
+body{
+  font-family: "DancingScript-Regular";
+}
+
+/* Header */
+header{
+  background-image: url("img/clem-onojeghuo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  opacity: 0.7;
+
+}
+header h1{
+  color: #A6CC66;
+  margin-top: 35vh;
+  font-style: italic;
+  font-size: 90px;
+
+}
+
+/* Frise Chronologique */
+
+#timeline-embed{
+  height:100vh;
+}
+
+h2.tl-headline{
+ color: #7FB624;
+}
+
+/* Footer */
+
+footer{
+  background-color: #A6CC66;
+  height: 10vh;
+}
+
+#linkedin{
+  height: 45px;
+  width : 50px;
+
+}
+
+#github{
+  height: 60px;
+  width : 60px;
+
+}
