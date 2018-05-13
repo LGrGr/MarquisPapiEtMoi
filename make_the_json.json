@@ -70,8 +70,8 @@ var make_the_json =
           "year": "1930"
         },
         "text": {
-          "headline": "Bernard GRASSIN dit 'Papi'",
-          "text": "Marié à Madeleine THUILLIER dite 'Mamie'."
+          "headline": "Bernard GRASSIN 'Papi'",
+          "text": "Marié à Madeleine THUILLIER 'Mamie'."
         }
       },
       {
@@ -203,7 +203,7 @@ var make_the_json =
         },
         "text": {
           "headline": "Anne GRASSIN",
-          "text": "<p>Epouse Gildas GRIETTE le 13 octobre 1984, ma mère.</p>"
+          "text": "<p>Epouse Gildas GRIETTE le 13 octobre 1984.</p>"
         }
       },
       {
@@ -236,7 +236,7 @@ var make_the_json =
         },
         "text": {
           "headline": "Claire-Josèphe GRASSIN",
-          "text": "<p>Epouse Didier VACHER</p>"
+          "text": "<p>Mariée à Didier VACHER</p>"
         }
       },
       {
@@ -336,6 +336,17 @@ var make_the_json =
         "text": {
           "headline": "Thomas GRIETTE",
           "text": "<p>Fils d'Anne GRASSIN et Gildas GRIETTE. Instructeur expert dans tout ce qui vole</p>"
+        }
+      },
+      {
+        "start_date": {
+          "day": "24",
+          "month": "11",
+          "year": "1988"
+        },
+        "text": {
+          "headline": "Delphine PARMENTIER",
+          "text": "<p>Pacsée avec Thomas GRIETTE</p>"
         }
       },
       {
